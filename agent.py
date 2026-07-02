@@ -4,7 +4,6 @@ Each agent connects to different MCP servers based on its domain expertise.
 This demonstrates the pattern of routing queries to specialized agents
 rather than giving one agent access to all tools.
 
-Inspired by: https://github.com/WeberG619/cadre-ai
 """
 
 import asyncio
