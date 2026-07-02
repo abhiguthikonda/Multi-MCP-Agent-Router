@@ -19,6 +19,7 @@ User Query
     +-- Security     --> GitHub MCP + Fetch MCP  
     +-- Research     --> Fetch MCP + Filesystem MCP
     +-- BIM/Revit    --> Custom MCP (named pipes)
+    
 Setup
 Requirements
 Python 3.10+
@@ -27,8 +28,6 @@ MCP servers (optional — the app works with or without them)
 Installation
 Clone this repository:
 
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd mcp_ai_agents/multi_mcp_agent_forge
 Install dependencies:
 
 pip install -r requirements.txt
